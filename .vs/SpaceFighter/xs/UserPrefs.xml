@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{593BEF5D-4979-DDA4-D0B8-4BB36FD6B61D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpaceShip.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SpaceShip.cs" Line="210" Column="13" />
+      <File FileName="Assets/Scripts/BulletScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="59" Column="27" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/EnemyBullet.cs" />
+      <File FileName="Assets/Scripts/GameData.cs" />
+      <File FileName="Assets/Scripts/JoyStick.cs" />
+      <File FileName="Assets/Scripts/JoyStick_Touch.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpaceFighter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SpaceShip.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c4bc2e0c-74ce-419a-9eab-3c4729f538ea" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/teknoloji/Projects/SpaceFighter/Assets/Scripts/JoyStick_Touch.cs" relfile="Assets/Scripts/JoyStick_Touch.cs" line="82" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
